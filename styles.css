@@ -12,7 +12,7 @@
  */
 
 .kin {
-  background-image: url("/assets/img/lab.png");
+  background-image: url("lab.png");
   background-size: cover;
 }
 
@@ -68,7 +68,7 @@ table th {
 
 .news {
 padding: 50px 0;
-background-image: url(/assets/img/news.jpg);
+background-image: url(news.jpg);
 }
 
 
@@ -11208,7 +11208,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background:url("../assets/img/japan.jpg");
+  background:url("japan.jpg");
   background-size:cover;
   height:100vh;
   background-position: center center;
@@ -11217,7 +11217,7 @@ body {
 @media (min-width: 488px) {
   .about-section {
     padding-top: 10rem;
-    background:url("../assets/img/japan.jpg");
+    background:url("japan.jpg");
     background-size:cover;
     height:100vh;
     background-position-x: right 20%;
@@ -11263,7 +11263,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: url("../assets/img/bg-signup.jpg");
+  background: url("bg-signup.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
