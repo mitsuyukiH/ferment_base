@@ -11,6 +11,18 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
+div.vid_contents {
+  width: 100%;/*背景色を横幅いっぱいに広げる*/
+  text-align: center;
+  margin: auto;
+  
+  background: #e6e6e6;/*余白の背景色*/
+  }
+  video.vid_main {
+  width: 100%;
+  max-width: 100%;/*PC版での最大幅*/
+  }
+
 .kin {
   background-image: url("lab.png");
   background-size: cover;
